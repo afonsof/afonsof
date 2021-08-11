@@ -12,6 +12,7 @@
 💼 [Linkedin](https://www.linkedin.com/in/afonsof)<br>
 📷 [Instagram](http://instagram.com/afonsof)<br>
 
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [5 motivos para estudar computação](http://afonsof.com/blog/5-motivos-para-estudar-computacao/)
 <!-- BLOG-POST-LIST:END -->
