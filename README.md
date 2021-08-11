@@ -13,4 +13,5 @@
 📷 [Instagram](http://instagram.com/afonsof)<br>
 
 <!-- BLOG-POST-LIST:START -->
+- [5 motivos para estudar computação](http://afonsof.com/blog/5-motivos-para-estudar-computacao/)
 <!-- BLOG-POST-LIST:END -->
