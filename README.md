@@ -14,5 +14,9 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 motivos para estudar computação](http://afonsof.com/blog/5-motivos-para-estudar-computacao/)
+- [Como configurar os emojis do Google como padrão no Debian 10](http://afonsof.com/como-configurar-emojis-do-google-no-debian/)
+- [Raio-X do Dev com Felix Batista](http://afonsof.com)
+- [O dia em que me confundiram com um terrorista](http://afonsof.com/o-dia-em-que-me-confundiram-com-um-terrorista/)
+- [O Google, a Apple, os celulares e o vício](http://afonsof.com)
+- [📉 Quebrei minha startup sendo um bom programador!](http://afonsof.com)
 <!-- BLOG-POST-LIST:END -->
